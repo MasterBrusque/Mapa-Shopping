@@ -113,6 +113,11 @@ h1 {
 border-radius: 5px;
 }
 
+#botaoVerMapa {
+    padding: 8px 50px;
+
+}
+
 }
 
 #botaoVerMapa {
