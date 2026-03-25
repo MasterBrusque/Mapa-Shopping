@@ -97,6 +97,11 @@ border-radius: 5px;
 
 @media (max-width: 768px) {
 
+#loading img {
+width: 70%;
+
+}
+
 h1 {
     font-size: 2rem;
 
